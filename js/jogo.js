@@ -1,6 +1,20 @@
 let altura = 0;
 let largura = 0;
 let vidas = 1;
+let tempo = 5;
+
+let cronometro = setInterval(function(){
+    
+    tempo -= 1;
+
+    if(tempo < 0){
+        clearInterval(cronometro);
+        clearInterval(criaMosquito);
+    }else{
+        document.getElementById('cronometro').innerHTML = tempo;
+    }
+
+} , 1000)
 
 function ajustaTamanhoPalcoJogo(){
     altura = window.innerHeight;
