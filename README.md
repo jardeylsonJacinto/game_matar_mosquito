@@ -3,11 +3,11 @@
 A ideia do game é matar todos os mosquitos antes que o tempo acabe
 
 ## Sobre o projeto
-Este projeto tem como proposta colocar em prática os conhecimentos adquiridos de css do curso de 
+Este projeto tem como proposta colocar em prática os conhecimentos adquiridos de Javascripts, css e bootstrap do curso de 
 Desenvolvimento web da udemy. 
 
 ## Tecnologias usadas
-Como desafio foi proposto desenvolver o site utilizando:
+Como desafio foi proposto desenvolver o game utilizando:
 
 [![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 [![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
