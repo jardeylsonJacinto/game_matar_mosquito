@@ -14,7 +14,7 @@ Como desafio foi proposto desenvolver o site utilizando:
 [![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/default.asp)
 [![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
-A versão do bootstrap é a 5.1.3.
+A versão usada do Bootstrap é a v5.1.3
 
 ## Layout do projeto
 ![mata mosquito t1](https://user-images.githubusercontent.com/93053356/182734562-2fb0528c-891d-481b-b1d9-9a3d7cdd55f5.jpg)
